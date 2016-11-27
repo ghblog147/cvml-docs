@@ -53,6 +53,7 @@ This is a paragraph that contains `a link`_.
 
 .. _a link: http://example.com/
 
+
 - This is the first bullet list item.  The blank line above the
   first list item is required; blank lines between list items
   (such as below this paragraph) are optional.
